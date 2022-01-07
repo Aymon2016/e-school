@@ -1,0 +1,90 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+/* header */
+.header{
+    background-color: #F0FFF0;
+}
+.menu-bar{
+    padding:10px 0px;
+}
+.header-logo img{
+    Width:198.07px;
+    Height:59px;
+}
+button{
+    border: none;
+    border-radius: 33px;
+    padding: 12px, 28px, 12px, 28px;
+    background-color: #21B573;
+}
+.menu-list li a{
+    color:#000000;
+}
+.img-fluid{
+    height: 548px;
+    width: 547px;
+}
+.get-started a {
+    text-decoration: none;
+    color:#000000;
+    border: none;
+    border-radius: 33px;
+    padding: 12px, 28px, 12px, 28px;
+    background-color: #21B573;
+}
+.poster-header div h6{
+    color:#FD511A;
+}
+.poster-header div span{
+    color:#21B573;
+}
+.card div img{
+    width: 66px;
+    height: 85px;
+    margin: auto;
+    padding: 10px;
+}
+.card div{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+    box-shadow: beige;
+}
+.card-section-area{
+    margin-top: 20px;
+}
+/* courses */
+.card img{
+    padding: 10px;
+}
+.courses-foter-section{
+    padding-top: 10px;
+}
+.online-courses{
+    margin-top: 30px;
+}
+.online-courses div h1{
+    padding: 20px;
+    margin: 20px;
+}
+.testimoniel div h1{
+    padding: 20px;
+    margin: 20px;  
+}
+.footer{
+    background-color: #282531;
+    color: white;
+    padding:20px;
+    margin-top: 50px;
+}
+.footer div div div ul li{
+    list-style-type: none;
+}
+.footer div div div ul li a{
+    text-decoration: none;
+}
